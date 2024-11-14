@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "vibe tree",
+      "image": "https://ih1.redbubble.net/image.3815325715.1701/raf,360x360,075,t,fafafa:ca443f4786.jpg",
+      "price": 399.99,
+      "id": 8
+    },
+    {
+      "name": "zz",
+      "image": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "ZZ",
+      "image": "",
+      "price": null,
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 11
     }
   ]
 }
